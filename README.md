@@ -1,4 +1,4 @@
-🐦 TweetSphere
+## 🐦 TweetSphere ##
 
 A full-stack Twitter-like social media application built with React, TypeScript, Node.js, Express, and Prisma, featuring authentication, timelines, and tweet creation.
 
