@@ -2,8 +2,8 @@
 
 A full-stack Twitter-like social media application built with React, TypeScript, Node.js, Express, and Prisma, featuring authentication, timelines, and tweet creation.
 
-🔗 Live Demo: (add Vercel link after deploy)
-🔗 Backend API: (add Render/Railway link after deploy)
+🔗 Live Demo: (tweetsphere-sztu.vercel.app)
+🔗 Backend API: ((https://tweetsphere-kpqg.onrender.com))
 
 ✨ Features
 
