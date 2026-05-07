@@ -7,10 +7,8 @@ import axios from "axios";
  * Backend runs on http://localhost:5000
  */
 const API = axios.create({
-  baseURL: "http://localhost:5000",
-  headers: {
-    "Content-Type": "application/json",
-  },
+  baseURL: "https://tweetsphere-kpqg.onrender.com",
+  withCredentials: true,
 });
 
 /**
